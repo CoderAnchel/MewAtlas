@@ -1,8 +1,8 @@
 # MewAtlas 🐱📸
-### English version 🇺🇸🇬🇧
 <img width="1512" alt="Screenshot 2024-10-18 at 00.05.03" src="https://github.com/user-attachments/assets/17854a7b-a1f2-45a6-9407-b5c307abda05">
 
 **Welcome to MewAtlas!**  
+### English version 🇺🇸🇬🇧
 A social network dedicated to sharing cat photos, developed with a full-stack architecture that includes a backend in Java using Spring Boot and a web interface built with React and TypeScript. MewAtlas allows users to register, log in, and post photos of their cats.
 
 This project is an exploration into full-stack development using **Spring Boot**, **React**, and **MySQL**, without using advanced authentication frameworks or ORM solutions.
