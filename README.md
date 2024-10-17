@@ -92,9 +92,6 @@ Once the application is launched, users can navigate the interface to view the l
 
 # SPANISH VERSION 🇪🇸
 
-# MewAtlas 🐱📸
-<img width="1512" alt="Captura de pantalla 2024-10-18 a las 0 05 03 2" src="https://github.com/user-attachments/assets/17854a7b-a1f2-45a6-9407-b5c307abda05">
-
 **¡Bienvenidos a MewAtlas!**  
 Una red social dedicada a compartir fotos de gatos, desarrollada con una arquitectura full stack que incluye un backend en Java usando Spring Boot y una interfaz web en React con TypeScript. CatShare permite a los usuarios registrarse, iniciar sesión, y publicar fotos de sus gatos.
 
@@ -161,25 +158,3 @@ Una vez lanzada la aplicación, los usuarios pueden navegar por la interfaz para
 - **Ver todas las publicaciones**: Al cargar la aplicación, se muestran todas las fotos subidas por los usuarios.
 - **Crear una nueva publicación**: Desde la interfaz, los usuarios pueden subir nuevas fotos con descripciones.
 - **Ver perfil de usuario**: Cada usuario puede acceder a su perfil.
-
-## Ejemplo de Uso
-
-### Log-In/Sign-Up
-<img width="1512" alt="Captura de pantalla 2024-10-18 a las 0 04 28 2" src="https://github.com/user-attachments/assets/c0e87d22-d99c-4576-801c-9e97eac63b71">
-
-### Log-out
-<img width="401" alt="Captura de pantalla 2024-10-18 a las 0 01 27" src="https://github.com/user-attachments/assets/834d1f50-6b6b-467a-bc4a-0bd38db1caf1">
-
-### Sign-Up
-<img width="1512" alt="Captura de pantalla 2024-10-18 a las 0 03 47 2" src="https://github.com/user-attachments/assets/314937dd-4e36-47e7-a3e3-8d3308a36224">
-
-### Log-In
-<img width="1511" alt="Captura de pantalla 2024-10-18 a las 0 06 09" src="https://github.com/user-attachments/assets/c95eeb03-a555-4b5d-897f-1425c60fdd14">
-
-<img width="1512" alt="Captura de pantalla 2024-10-18 a las 0 03 24 2" src="https://github.com/user-attachments/assets/b8cff58e-edba-4a96-a0d1-6c3ebee5dbb4">
-
-### Add Cat
-
-<img width="1511" alt="Captura de pantalla 2024-10-18 a las 0 06 09" src="https://github.com/user-attachments/assets/c95eeb03-a555-4b5d-897f-1425c60fdd14">
-
-
