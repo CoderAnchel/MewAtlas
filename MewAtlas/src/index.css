@@ -1,0 +1,386 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+.lilita-one-regular {
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Excalidraw';
+  src: url('../public/fonts/Excalifont-Regular.woff2') format('woff2'),
+       url('../public/fonts/Excalifont-Regular.woff2') format('woff');
+      font-weight: normal;
+      font-style: normal;
+}
+
+*, html, body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Excalidraw', sans-serif;
+}
+
+.navbar {
+  width: 100%;
+  height: 90px;
+  background: #6741d9;
+  border: 3px solid #1e1e1e;
+}
+
+.header {
+  width: 100%;
+  height: 30vh;
+  background: #e9ecef;
+  border: 2px solid #1e1e1e;
+  font-family: "Excalidraw", sans-serif;
+  border-bottom: 1px solid #1e1e1e;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container h1 {
+  font-size: 5rem;
+  color: #1e1e1e;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar img {
+  width: 170px;
+}
+
+.navbar a {
+  color: #fff;
+  font-size: 1.5rem;
+  text-decoration: none;
+  margin: 0 10px;
+  background: #1e1e1e;
+  padding: 5px  30px;
+  border-radius: 8px;
+}
+
+.button {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  background: #6741d9;
+  color: #fff;
+  font-size: 1.5rem;
+  padding: 40px 10px;
+  border: 3px solid #1e1e1e;
+  border-radius: 100px;
+  cursor: pointer;
+  font-family: "Lilita One" !important;
+  z-index: 10000;
+}
+
+.button:hover {
+  background: #1e1e1e;
+  color: #fff;
+  transition: all 0.2s;
+}
+
+.popUp {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.popUpContainer {
+  width: 600px;
+  height: 500px;
+  background: #fff;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.popUp div input {
+  width: 100%;
+  height: 40px;
+  margin: 10px 0;
+  padding: 20px 10px;
+  font-size: 1.5rem;
+  color: #6741d9;
+  outline: none;
+}
+
+.popUpRow {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 90%;
+  margin-top: 10px;
+}
+
+.popUpRow span {
+  font-size: 1.5rem;
+}
+
+.send {
+  width: 90%;
+  padding: 10px 10px;
+  font-size: 1.5rem;
+  color: #fff;
+  background: #6741d9;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.by {
+  position: fixed;
+  bottom: 10px;
+  left: 15px;
+  font-size: 1.5rem;
+  color: #1e1e1e;
+}
+
+.cardsContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  background: #d0bfff;
+  border: 3px solid #1e1e1e;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.card img {
+  width: 200px;
+  height: 200px;
+  border-radius: 0px;
+}
+
+.cardInfo {
+  display: flex;
+  flex-direction: column;;
+}
+
+.cardInfo span {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  margin: 5px;
+  padding: 5px 20px;
+  width: 200px;
+  font-size: 18px;
+  color: #1e1e1e;
+  background: #ffffff;
+  border: 1px solid #1e1e1e;
+}
+
+.title {
+  font-size: 18px !important;
+}
+
+.grey {
+  background: #e9ecef !important;
+}
+
+.startContent {
+  background: #e9ecef;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+}
+
+.startContainer {
+  width: 60vw;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.containerContent {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.contenTitle {
+  color: #1e1e1e;
+  font-size: 120px;
+}
+
+.boxes span {
+  background: #fff;
+  font-size: 40px;
+  margin: 10px;
+  padding: 5px 30px;
+  border-radius: 5px;
+  border: 2px solid #1e1e1e;
+  cursor: pointer;
+}
+
+.boxes span:hover {
+  background: #1e1e1e;
+  color: #fff;
+  transition: all 0.2s;
+}
+
+
+.boxesWrapper {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.closer {
+  cursor: pointer;
+  padding: 5px;
+  font-size: 25px;
+  position: relative;
+  left: 95%;
+  top: 5px;
+}
+
+.Window {
+  position: fixed;
+  top: 20%;
+  left: 20%;
+  width: 60vw;
+  height: 60vh;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+}
+
+.windowWrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-between;
+  padding: 10px;
+  background: #fff;
+
+  border-top: 0;
+}
+
+.windowTitle {
+  font-size: 40px;
+  margin-left: 5%;
+}
+
+.windowRow {
+  margin-left: 5%;
+}
+
+.popUpRow input {
+  height: 40px;
+  margin: 10px 0;
+  padding: 20px 10px;
+  font-size: 1.5rem;
+  color: #6741d9;
+  outline: none;
+}
+
+.sender {
+  background: #40c057;
+  width: 90%;
+  margin-top: 10px;
+  margin-left: 5%;
+  padding: 10px;
+  font-size: 20px;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+}
+
+.profilePic {
+  width: 50px !important;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.profilePic:hover {
+  border: 2px solid #000000;
+}
+
+.profileBar {
+  position: fixed;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  width: 15%;
+  background: #1e1e1e;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.profileRow {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-top: 1px solid #fff;
+  cursor: pointer;
+}
+
+.profileRow img {
+  width: 50px !important;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.purple {
+  display: flex !important;
+  justify-self: center !important;
+  width: 100% !important;
+  background: #6741d9!important;
+  border-radius:  0 0 10px 10px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.purple:hover {
+  background: #d60909 !important;
+  transition: all 0.3s;
+}
+
+.especial {
+  border-top: 0;
+}
+
+.profileRow:hover {
+  font-size: 17px;
+  transition: all 0.3s;
+}
