@@ -1,5 +1,5 @@
 # MewAtlas 🐱📸
-<img width="1512" alt="Captura de pantalla 2024-10-17 a las 23 52 23 2" src="https://github.com/user-attachments/assets/ce232377-0c50-4ea6-82e0-0a622b9801d4">
+<img width="759" alt="Captura de pantalla 2024-10-18 a las 0 01 11" src="https://github.com/user-attachments/assets/fd874029-7dd2-414d-afc1-faff6081ebcc">
 
 **¡Bienvenidos a MewAtlas!**  
 Una red social dedicada a compartir fotos de gatos, desarrollada con una arquitectura full stack que incluye un backend en Java usando Spring Boot y una interfaz web en React con TypeScript. CatShare permite a los usuarios registrarse, iniciar sesión, y publicar fotos de sus gatos.
@@ -70,24 +70,18 @@ Una vez lanzada la aplicación, los usuarios pueden navegar por la interfaz para
 
 ## Ejemplo de Uso
 
-### Ver todas las publicaciones
+### Log-In/Sign-Up
 
-Al iniciar la aplicación, se desplegará una lista de todas las publicaciones realizadas por los usuarios, junto con los nombres de los gatos y las descripciones.
+<img width="757" alt="Captura de pantalla 2024-10-18 a las 0 00 09" src="https://github.com/user-attachments/assets/79dea0af-d4bf-4433-b1cc-e35fe8f562b8">
 
-### Crear una publicación
+### Log-out
+<img width="401" alt="Captura de pantalla 2024-10-18 a las 0 01 27" src="https://github.com/user-attachments/assets/834d1f50-6b6b-467a-bc4a-0bd38db1caf1">
 
-Los usuarios pueden subir fotos desde su dispositivo, agregar una descripción y compartir la publicación en el feed principal.
+### Sign-Up
 
-### Filtrar publicaciones por usuario
+<img width="757" alt="Captura de pantalla 2024-10-18 a las 0 02 09" src="https://github.com/user-attachments/assets/a7a3a2bb-d7d4-4150-b65a-cf777a122f43">
 
-Cada usuario tiene un perfil personal donde puede ver y gestionar todas las fotos que ha subido.
+### Log-In
 
-## Instalación y Configuración 🚀
+<img width="761" alt="Captura de pantalla 2024-10-18 a las 0 02 26" src="https://github.com/user-attachments/assets/3dec54b8-a9f8-4784-bc3d-f898cad9545f">
 
-### Instrucciones de instalación
-
-1. Clona este repositorio en tu máquina local:
-
-   ```bash
-   git clone https://github.com/tu-usuario/catshare.git
-   cd catshare
