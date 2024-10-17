@@ -1,5 +1,5 @@
 # MewAtlas 🐱📸
-<img width="759" alt="Captura de pantalla 2024-10-18 a las 0 01 11" src="https://github.com/user-attachments/assets/fd874029-7dd2-414d-afc1-faff6081ebcc">
+<img width="1512" alt="Captura de pantalla 2024-10-18 a las 0 05 03 2" src="https://github.com/user-attachments/assets/17854a7b-a1f2-45a6-9407-b5c307abda05">
 
 **¡Bienvenidos a MewAtlas!**  
 Una red social dedicada a compartir fotos de gatos, desarrollada con una arquitectura full stack que incluye un backend en Java usando Spring Boot y una interfaz web en React con TypeScript. CatShare permite a los usuarios registrarse, iniciar sesión, y publicar fotos de sus gatos.
@@ -71,17 +71,16 @@ Una vez lanzada la aplicación, los usuarios pueden navegar por la interfaz para
 ## Ejemplo de Uso
 
 ### Log-In/Sign-Up
-
-<img width="757" alt="Captura de pantalla 2024-10-18 a las 0 00 09" src="https://github.com/user-attachments/assets/79dea0af-d4bf-4433-b1cc-e35fe8f562b8">
+<img width="1512" alt="Captura de pantalla 2024-10-18 a las 0 04 28 2" src="https://github.com/user-attachments/assets/c0e87d22-d99c-4576-801c-9e97eac63b71">
 
 ### Log-out
 <img width="401" alt="Captura de pantalla 2024-10-18 a las 0 01 27" src="https://github.com/user-attachments/assets/834d1f50-6b6b-467a-bc4a-0bd38db1caf1">
 
 ### Sign-Up
-
-<img width="757" alt="Captura de pantalla 2024-10-18 a las 0 02 09" src="https://github.com/user-attachments/assets/a7a3a2bb-d7d4-4150-b65a-cf777a122f43">
+<img width="1512" alt="Captura de pantalla 2024-10-18 a las 0 03 47 2" src="https://github.com/user-attachments/assets/314937dd-4e36-47e7-a3e3-8d3308a36224">
 
 ### Log-In
 
-<img width="761" alt="Captura de pantalla 2024-10-18 a las 0 02 26" src="https://github.com/user-attachments/assets/3dec54b8-a9f8-4784-bc3d-f898cad9545f">
+<img width="1512" alt="Captura de pantalla 2024-10-18 a las 0 03 24 2" src="https://github.com/user-attachments/assets/b8cff58e-edba-4a96-a0d1-6c3ebee5dbb4">
+
 
