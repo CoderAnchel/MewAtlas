@@ -1,4 +1,5 @@
 # MewAtlas 🐱📸
+<img width="1512" alt="Captura de pantalla 2024-10-17 a las 23 52 23 2" src="https://github.com/user-attachments/assets/ce232377-0c50-4ea6-82e0-0a622b9801d4">
 
 **¡Bienvenidos a MewAtlas!**  
 Una red social dedicada a compartir fotos de gatos, desarrollada con una arquitectura full stack que incluye un backend en Java usando Spring Boot y una interfaz web en React con TypeScript. CatShare permite a los usuarios registrarse, iniciar sesión, y publicar fotos de sus gatos.
