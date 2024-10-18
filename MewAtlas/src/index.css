@@ -384,3 +384,49 @@
   font-size: 17px;
   transition: all 0.3s;
 }
+
+.profileMain {
+  display: flex;
+}
+
+.block1 {
+  padding: 10px;
+  border-right: 2px solid #1e1e1e;
+  height: 90vh;
+}
+
+.block2 {
+  padding: 10px;
+}
+
+.titleProfile {
+  font-size: 45px;
+  text-decoration: underline;
+  margin: 10px;
+  font-family: "Lilita One";
+}
+
+.profileMainPic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 10px;
+}
+
+.contents {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  justify-content: space-between;
+  height: 40vh;
+}
+
+.date {
+  font-size: 20px !important;
+}
+
+.titles {
+  font-size: 20px;
+  margin: 10px;
+  font-family: "Lilita One";
+}

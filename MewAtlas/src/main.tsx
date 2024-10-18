@@ -9,6 +9,7 @@ import {
   Route,
   Link,
 } from "react-router-dom";
+import UserDetails from './components/UserDetails.tsx'
 
 const router = createBrowserRouter([
   {
@@ -18,6 +19,10 @@ const router = createBrowserRouter([
   {
     path: "/app",
     element: <App />,
+  },
+  {
+    path: "/app/profile",
+    element: <UserDetails />,
   }
 ])
 
