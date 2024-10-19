@@ -3,9 +3,9 @@
 
 **Welcome to MewAtlas!**  
 ### English version 🇺🇸🇬🇧
-A social network dedicated to sharing cat photos, developed with a full-stack architecture that includes a backend in Java using Spring Boot and a web interface built with React and TypeScript. MewAtlas allows users to register, log in, and post photos of their cats.
+A social network dedicated to sharing cat photos, developed with a full-stack architecture that includes a backend in Java using Spring Boot, firebase and a web interface built with React and TypeScript. MewAtlas allows users to register, log in, and post photos of their cats.
 
-This project is an exploration into full-stack development using **Spring Boot**, **React**, and **MySQL**, without using advanced authentication frameworks or ORM solutions.
+This project is an exploration into full-stack development using **Spring Boot**, **React**, **MySQL**, and **FireBase**.
 
 ## Project Structure
 
@@ -71,6 +71,10 @@ Once the application is launched, users can navigate the interface to view the l
 
 ## Example Usage
 
+### Google-Login
+![Captura de pantalla 2024-10-19 a las 18 45 10](https://github.com/user-attachments/assets/870197d0-3225-4a4c-b681-085f638ca20d)
+
+
 ### Log-In/Sign-Up
 <img width="1512" alt="Screenshot 2024-10-18 at 00.04.28" src="https://github.com/user-attachments/assets/c0e87d22-d99c-4576-801c-9e97eac63b71">
 
@@ -93,9 +97,9 @@ Once the application is launched, users can navigate the interface to view the l
 # SPANISH VERSION 🇪🇸
 
 **¡Bienvenidos a MewAtlas!**  
-Una red social dedicada a compartir fotos de gatos, desarrollada con una arquitectura full stack que incluye un backend en Java usando Spring Boot y una interfaz web en React con TypeScript. CatShare permite a los usuarios registrarse, iniciar sesión, y publicar fotos de sus gatos.
+Una red social dedicada a compartir fotos de gatos, desarrollada con una arquitectura full stack que incluye un backend en Java usando Spring Boot, FireBase y una interfaz web en React con TypeScript. CatShare permite a los usuarios registrarse, iniciar sesión, y publicar fotos de sus gatos.
 
-Este proyecto es una incursion  en el desarrollo full stack utilizando **Spring Boot**, **React** y **MySQL**, sin frameworks de autenticación ni ORM avanzados. 
+Este proyecto es una incursion  en el desarrollo full stack utilizando **Spring Boot**, **React** **MySQL**, y **Firebase**
 
 ## Estructura del Proyecto
 
