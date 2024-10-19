@@ -85,7 +85,6 @@ Once the application is launched, users can navigate the interface to view the l
 <img width="1512" alt="Screenshot 2024-10-18 at 00.03.47" src="https://github.com/user-attachments/assets/314937dd-4e36-47e7-a3e3-8d3308a36224">
 
 ### Log-In
-<img width="1511" alt="Screenshot 2024-10-18 at 00.06.09" src="https://github.com/user-attachments/assets/c95eeb03-a555-4b5d-897f-1425c60fdd14">
 
 <img width="1512" alt="Screenshot 2024-10-18 at 00.03.24" src="https://github.com/user-attachments/assets/b8cff58e-edba-4a96-a0d1-6c3ebee5dbb4">
 
