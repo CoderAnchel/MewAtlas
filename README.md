@@ -12,7 +12,7 @@ This project is an exploration into full-stack development using **Spring Boot**
 The project is organized into the following components:
 
 - **Frontend**: Developed with **React** and **TypeScript**, handling user views, photo posting, and profile management.
-- **Backend**: Implemented with **Java 17+** and **Spring Boot**, providing RESTful endpoints for managing users and posts, and googleAuth integratet witn firebase.
+- **Backend**: Implemented with **Java 17+** and **Spring Boot**, providing RESTful endpoints for managing users and posts, googleAuth integrated witn firebase.
 - **Database**: Uses **MySQL** to store user and post information, managed via **JDBC** instead of an ORM like Hibernate.
 
 ## Features 🌟
@@ -106,7 +106,7 @@ Este proyecto es una incursion  en el desarrollo full stack utilizando **Spring 
 El proyecto está organizado en los siguientes componentes:
 
 - **Frontend**: Desarrollado con **React** y **TypeScript**, el cual maneja las vistas de los usuarios, publicación de fotos y gestión del perfil.
-- **Backend**: Implementado con **Java 17+** y **Spring Boot**, proporcionando endpoints RESTful que permiten la gestión de usuarios y publicaciones.
+- **Backend**: Implementado con **Java 17+** y **Spring Boot**, proporcionando endpoints RESTful que permiten la gestión de usuarios y publicaciones, googleAuth imtegrado con firebase.
 - **Base de Datos**: Utiliza **MySQL** para almacenar la información de los usuarios y publicaciones, gestionada a través de **JDBC** en lugar de un ORM como Hibernate.
 
 ## Funcionalidades 🌟
